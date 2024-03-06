@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ParseMetricsXml": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\temp\\report.xml c:\\temp\\report3.csv"
+    }
+  }
+}

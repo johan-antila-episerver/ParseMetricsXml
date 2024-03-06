@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseMetricsXml", "ParseMetricsXml.csproj", "{05CB02A8-A7B6-4C0A-ADE3-79E0A1967B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05CB02A8-A7B6-4C0A-ADE3-79E0A1967B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CB02A8-A7B6-4C0A-ADE3-79E0A1967B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CB02A8-A7B6-4C0A-ADE3-79E0A1967B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CB02A8-A7B6-4C0A-ADE3-79E0A1967B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80C12628-8929-4724-A649-11E30675BAFB}
+	EndGlobalSection
+EndGlobal
